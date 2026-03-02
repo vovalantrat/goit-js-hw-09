@@ -123,6 +123,13 @@ main:has(.back-link) {
   line-height: 150%;
   letter-spacing: 0.04em;
   color: #fff;
+}
 
+.form-email:hover, .form-message:hover {
+  border-color: #000;
+}
+
+.submit-btn:hover {
+  background: #6c8cff;;
 }
 
